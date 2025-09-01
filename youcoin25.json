@@ -2,13 +2,13 @@
   "name": "YouCoin 25",
   "symbol": "UCN25",
   "description": "YouCoin 25 (UCN25) is a custom SPL token created by Charles Brantley.",
-  "image": "https://raw.githubusercontent.com/CharlesBrantley/youcoin25/main/YouCoin_CoinLogoResized_512.png",
+ "image": "https://raw.githubusercontent.com/CharlesBrantley/youcoin25/main/YouCoin_CoinLogoResized_512.png?v=2",
   "attributes": [],
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/CharlesBrantley/youcoin25/main/YouCoin_CoinLogoResized_512.png",
+       "uri": "https://raw.githubusercontent.com/CharlesBrantley/youcoin25/main/YouCoin_CoinLogoResized_512.png?v=2"
         "type": "image/png"
       }
     ]
