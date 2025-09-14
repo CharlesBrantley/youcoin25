@@ -3,13 +3,13 @@
   "symbol": "UCN25",
   "decimals": 6,
   "description": "YouCoin Legacy (UCN25) is a custom SPL token created by Charles Brantley.",
-  "image": "https://raw.githubusercontent.com/CharlesBrantley/youcoin25/main/YouCoin_CoinLogoResized_512_compressed.png",
+  "image": "https://raw.githubusercontent.com/CharlesBrantley/youcoin25/main/YouCoin_CoinLogoResized_512_compressed.png?v=2",
   "attributes": [],
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/CharlesBrantley/youcoin25/main/YouCoin_CoinLogoResized_512_compressed.png",
+        "uri": "https://raw.githubusercontent.com/CharlesBrantley/youcoin25/main/YouCoin_CoinLogoResized_512_compressed.png?v=2",
         "type": "image/png"
       }
     ]
